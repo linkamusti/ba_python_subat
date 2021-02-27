@@ -9,6 +9,9 @@ We will use Python 3.9.2 (but any version starting with 3 is okay!)
 
 Include your python executable to your **$PATH** 
 
+![title](images/python-path.png)
+
+
 ### To check if you've installed successfully
 
 Open the terminal: 
