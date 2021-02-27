@@ -7,6 +7,8 @@ Select Python Version and OS (OS is automatically selected)
 
 We will use Python 3.9.2 (but any version starting with 3 is okay!)
 
+Include your python executable to your **$PATH** 
+
 ### To check if you've installed successfully
 
 Open the terminal: 
