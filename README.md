@@ -114,3 +114,8 @@ Open a terminal and execute the following command:
 To check if you have successfully installed Jupyter Notebook, execute the following command:
 
 > jupyter notebook
+
+
+On Windows, if the above command does not work, try running the following command:
+
+> python -m notebook
