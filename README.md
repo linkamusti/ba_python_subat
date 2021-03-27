@@ -119,3 +119,57 @@ To check if you have successfully installed Jupyter Notebook, execute the follow
 On Windows, if the above command does not work, try running the following command:
 
 > python -m notebook
+
+
+
+# Git
+
+### Installing Git
+
+First install git (if you haven't already.)
+
+https://phoenixnap.com/kb/how-to-install-git-windows
+
+Here is a step-by-step guide
+
+You can use the following command to check if the installation was succesful.
+
+> git --version
+
+If you see a version, all is good!
+
+
+### Using git to _clone_ the contents of repository
+
+- First use terminal commands (cd, mkdir, etc..) to navigate to wherever you want to clone the repository. (mkdir makes a new directory)
+	- Example: 
+	-  cd /Users/mkemaltas/Desktop
+	-  mkdir BilgeAdam
+	-  cd BilgeAdam
+
+- Then clone the repository by executing the following command
+
+> git clone https://github.com/linkamusti/ba_python_subat.git
+
+- After that, you should see a new folder named ba_python_subat. 
+
+- To navigate into that folder you can either use the Windows File Explorer, or type in "cd ba_python_subat"
+
+
+
+### _Pulling_ the updates from the repository
+
+Whenever there's a change on the remote repository, you can pull the changes so that you have the most recent code.
+
+- To do that you should first navigate to the folder (ba_python_subat) using terminal commands (cd)
+
+- Then, to pull the changes to your local machine run the following command:
+
+> git pull
+
+- Everything should be up-to-date after doing so.
+
+
+
+
+
