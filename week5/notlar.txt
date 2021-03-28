@@ -1,0 +1,13 @@
+Mustafa,95
+Ayşegül,75
+Ümit,23
+Bedrican,34
+Samet,48
+Mahmut,33
+Ali,95
+Yağmur,40
+Melike,85
+Arda,85
+Burak,85
+Hasan,85
+Berkcan,85

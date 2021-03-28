@@ -1,0 +1,4 @@
+Hello World
+This is Ayşe
+I am teaching Javascript
+Yaay

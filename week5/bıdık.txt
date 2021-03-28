@@ -1,0 +1,4 @@
+Hello World I'm a file!
+Bu benim ikinci satırım.
+Bu da üçüncü satır
+WOOWW
